@@ -1,0 +1,27 @@
+{
+  "name": "sharp-installation-error",
+  "version": "1.0.0",
+  "description": "A minimal repo that describes sharp installation error.",
+  "main": "index.html",
+  "scripts": {
+    "test": "nwjs-sdk-v0.54.0\\nw.exe ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellin-code/sharp-installation-error.git"
+  },
+  "keywords": [
+    "error",
+    "sharp",
+    "installation"
+  ],
+  "author": "kellin-code <kellin@int.pl>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kellin-code/sharp-installation-error/issues"
+  },
+  "homepage": "https://github.com/kellin-code/sharp-installation-error#readme",
+  "dependencies": {
+    "sharp": "^0.28.3"
+  }
+}
